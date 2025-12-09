@@ -1,0 +1,12 @@
+# Build files
+/build/
+/CMakeFiles/
+/Makefile
+/CMakeCache.txt
+/*.cmake
+
+# Qt/IDE files
+*.user
+*.pro.user
+*.suo
+*.vscode/
